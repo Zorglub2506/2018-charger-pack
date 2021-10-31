@@ -38,6 +38,11 @@ If you have any questions/suggestions, contact me here : https://discord.gg/bbFc
 ******************************************
 Installation
 ******************************************
+Please install these files before : 
+https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars
+https://www.gta5-mods.com/tools/heapadjuster
+
+
 Drop '18chargerpack' folder in : (OpenIV)
 	GTA V > mods > update > x64 > dlcpacks
 
