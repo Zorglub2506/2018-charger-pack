@@ -43,13 +43,13 @@ https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars
 https://www.gta5-mods.com/tools/heapadjuster
 
 
-Drop '18chargerpack' folder in : (OpenIV)
+Drop 'chargerpack' folder in : (OpenIV)
 	GTA V > mods > update > x64 > dlcpacks
 
 Edit 'dlclist.xml' file's content in : (OpenIV)
 	GTA V > mods > update > update.rpf > common > data
 	Add line : 
-		<Item>dlcpacks:/2018chargerpack/</Item>
+		<Item>dlcpacks:/chargerpack/</Item>
 
 Drop 'ELS' folder's content in : (no need to use OpenIV)
 	GTA V > ELS > pack_default
